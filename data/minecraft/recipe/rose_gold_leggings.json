@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": "mc_renewed:repairs_rose_gold_armor"
+  },
+  "pattern": [
+    "AAA",
+    "A A",
+    "A A"
+
+  ],
+  "result": {
+    "id": "mc_renewed:rose_gold_leggings"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": "minecraft:stick",
+    "B": "mc_renewed:rose_gold_tool_materials"
+  },
+  "pattern": [
+    " B",
+    " B",
+    " A"
+  ],
+  "result": {
+    "id": "mc_renewed:rose_gold_sword"
+  }
+}
