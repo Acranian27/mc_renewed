@@ -6,11 +6,11 @@
     "B": "mc_renewed:rose_gold_tool_materials"
   },
   "pattern": [
-    " B",
-    " A",
-    " A"
+    "B",
+    "B",
+    "A"
   ],
   "result": {
-    "id": "mc_renewed:rose_gold_shovel"
+    "id": "mc_renewed:rose_gold_sword"
   }
 }
